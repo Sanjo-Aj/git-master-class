@@ -1,0 +1,10 @@
+> git config --list -> command for listing items
+
+>git config --global user.name "sanjo"-> for adding user name
+>git config --global user.email "@gmsil.com"-> for adding email
+
+
+> git imit -> command for initializing git repository
+> git status ->command for track all untracked files
+> git add -A ->command for addind all untracked files to staging area
+> git commit -m ""message" -> for addind all files to local repository
