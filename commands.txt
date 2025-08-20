@@ -7,4 +7,7 @@
 > git imit -> command for initializing git repository
 > git status ->command for track all untracked files
 > git add -A ->command for addind all untracked files to staging area
-> git commit -m ""message" -> for addind all files to local repository
+> git commit -m "message" -> for addind all files to local repository
+> git remote add name remote path -> for adding remote repository in local repository
+> git remote -v -> for checking wheather the remote is added
+> git push -u remote name | master -> 
