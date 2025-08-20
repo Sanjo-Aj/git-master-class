@@ -10,4 +10,5 @@
 > git commit -m "message" -> for addind all files to local repository
 > git remote add name remote path -> for adding remote repository in local repository
 > git remote -v -> for checking wheather the remote is added
-> git push -u remote name | master -> 
+> git push -u remote name | master -> for addind the files and into remote repository
+> git branch 
